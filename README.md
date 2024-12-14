@@ -1,7 +1,7 @@
 # Sravan-s-Portfolio
 
 
-# HR Analytics Dashboard 
+# HR Analytics Dashboard https://github.com/SravanChappidi/HR-analytics-dashboard
 This project contains resources and documentation related to HR data analytics using Power BI Dashboard. The project focuses on analyzing human resources data to derive insights, trends, and metrics that support strategic decision-making and workforce management.
 Project Objectives:
 Data Preparation: Cleanse, transform, and integrate HR data from various sources for analysis.
